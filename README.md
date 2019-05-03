@@ -20,4 +20,4 @@ The main purpose is to demonstrate a proof of concept, but you are welcome to co
 $ npx rff-cli-example
 ```
 
-<p align="center"><img src="demo.gif"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/final-form/rff-cli-example/master/demo.gif"/></p>
