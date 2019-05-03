@@ -1,5 +1,6 @@
 {
 	"name": "rff-cli-example",
+	"description": "An example of how to use 🏁 React Final Form in a CLI application with Ink",
 	"version": "1.0.0",
 	"license": "MIT",
 	"bin": "./build/cli.js",
