@@ -1,4 +1,4 @@
-# react-final-form-cli-example
+# rff-cli-example
 
 This package is an example of how [🏁 React Final Form](https://github.com/final-form/react-final-form#-react-final-form) can be used to maintain form data in a CLI app using [Ink](https://github.com/vadimdemedes/ink) and [Pastel](https://github.com/vadimdemedes/pastel), by [@vadimdemedes](https://github.com/vadimdemedes).
 
