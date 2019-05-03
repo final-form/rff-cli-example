@@ -1,0 +1,12 @@
+{
+	"commands": [
+		{
+			"path": "/Users/erik/oss/ff/rffcli/commands/index.js",
+			"buildPath": "/Users/erik/oss/ff/rffcli/build/commands/index.js",
+			"name": "index",
+			"description": "CliForm",
+			"args": [],
+			"subCommands": []
+		}
+	]
+}
